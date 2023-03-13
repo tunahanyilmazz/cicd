@@ -1,2 +1,3 @@
-# cicd
-helloe world 
+# maven-project
+
+Simple Maven Project
